@@ -1,0 +1,4 @@
+[submodule "Assets/Plugins/SpicaSDK"]
+	path = Assets/Plugins/SpicaSDK
+	url = https://github.com/emre2345/Unity-Spica-SDK.git
+	branch = submodule
